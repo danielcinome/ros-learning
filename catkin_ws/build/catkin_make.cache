@@ -1,0 +1,2 @@
+first_pkg:simple_pub_sub
+-DCATKIN_DEVEL_PREFIX=/home/daniel/ROS/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/daniel/ROS/catkin_ws/install -G Unix Makefiles
